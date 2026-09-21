@@ -1,0 +1,81 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/about.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/blog.html",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/ceiling-wall-leak.html",
+      "destination": "/ceiling-wall-leak",
+      "permanent": true
+    },
+    {
+      "source": "/commercial-leak-detection.html",
+      "destination": "/commercial-leak-detection",
+      "permanent": true
+    },
+    {
+      "source": "/contact.html",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/locations.html",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-bayshore-arts-district.html",
+      "destination": "/plumbing-bayshore-arts-district",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-port-royal.html",
+      "destination": "/plumbing-port-royal",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-royal-harbor.html",
+      "destination": "/plumbing-royal-harbor",
+      "permanent": true
+    },
+    {
+      "source": "/privacy-policy.html",
+      "destination": "/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/services.html",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/slab-leak.html",
+      "destination": "/slab-leak",
+      "permanent": true
+    },
+    {
+      "source": "/water-meter-high-bill-leak.html",
+      "destination": "/water-meter-high-bill-leak",
+      "permanent": true
+    },
+    {
+      "source": "/water-service-line-leak.html",
+      "destination": "/water-service-line-leak",
+      "permanent": true
+    }
+  ]
+}
