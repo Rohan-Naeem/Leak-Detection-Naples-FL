@@ -3994,6 +3994,7 @@ h3 {
 .nav-dd:hover .nav-dd-panel, .nav-dd:focus-within .nav-dd-panel { opacity: 1; visibility: visible; transform: translateY(0); }
 .nav-dd-panel a { padding: 0.55rem 0.8rem; border-radius: 4px; color: var(--ink); font-size: 0.9rem; white-space: nowrap; font-weight: 500; }
 .nav-dd-panel a:hover { background: var(--ivory); color: var(--orange); }
+.nav-dd-panel a::after { bottom: 4px; left: 0.8rem; right: 0.8rem; }
 .nav-dd-panel .nav-dd-all { border-top: 1px solid var(--line); margin-top: 0.35rem; padding-top: 0.6rem; color: var(--orange); font-weight: 600; }
 @media (max-width: 991px) {
   /* Parent row: label left, +/- toggle pushed to the right. */

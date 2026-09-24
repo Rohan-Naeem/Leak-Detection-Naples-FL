@@ -68,6 +68,16 @@
       "permanent": true
     },
     {
+      "source": "/under-house-crawlspace-leak.html",
+      "destination": "/under-house-crawlspace-leak",
+      "permanent": true
+    },
+    {
+      "source": "/irrigation-sprinkler-leak.html",
+      "destination": "/irrigation-sprinkler-leak",
+      "permanent": true
+    },
+    {
       "source": "/water-meter-high-bill-leak.html",
       "destination": "/water-meter-high-bill-leak",
       "permanent": true
