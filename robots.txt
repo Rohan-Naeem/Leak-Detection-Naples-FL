@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://leakdetectionnaplesfl.com/sitemap.xml
+Sitemap: https://leak-detection-naples-fl.vercel.app/sitemap.xml
